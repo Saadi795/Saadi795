@@ -141,7 +141,7 @@ When I'm not tinkering with AI, I'm building **Telegram bot systems**, full-stac
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Saadi795&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Saadi795&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title_color=90CEA6&text_color=679379&primary=679379&secondary=466452&stroke=466452&symbol_color=9D5963" alt="GitHub Trophies" />
 
 </div>
 
