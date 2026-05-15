@@ -111,8 +111,8 @@ When I'm not tinkering with AI, I'm building **Telegram bot systems**, full-stac
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**Wisdom &amp; Reflection**](https://wisdom-and-reflection.vercel.app/) | React · Vite · TypeScript | Islamic quotes &amp; reflection web app |
-| **AI-Image-Generator** | Python · Telegram API | Text-to-image Telegram bot |
+| <a href="https://wisdom-and-reflection.vercel.app/"><img src="https://img.shields.io/badge/wisdom__and__reflection-live-90CEA6?style=for-the-badge&logo=vercel&logoColor=90CEA6&labelColor=0E1216" /></a> | <img src="https://img.shields.io/badge/-React-466452?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0E1216" /> <img src="https://img.shields.io/badge/-Vite-466452?style=flat-square&logo=vite&logoColor=FFC83D&labelColor=0E1216" /> <img src="https://img.shields.io/badge/-TypeScript-466452?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0E1216" /> | Islamic quotes &amp; reflection web app |
+| <img src="https://img.shields.io/badge/ai__image__generator-bot-9D5963?style=for-the-badge&logo=telegram&logoColor=9D5963&labelColor=0E1216" /> | <img src="https://img.shields.io/badge/-Python-466452?style=flat-square&logo=python&logoColor=FFD43B&labelColor=0E1216" /> <img src="https://img.shields.io/badge/-Telegram%20API-466452?style=flat-square&logo=telegram&logoColor=26A5E4&labelColor=0E1216" /> | Text-to-image Telegram bot |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=9D5963&height=2" width="100%" />
 
