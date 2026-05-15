@@ -1,16 +1,17 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:040507,30:1F2624,60:466452,100:90CEA6&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=58&descAlign=50&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:040507,30:1F2624,60:466452,100:90CEA6&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=58&descAlign=50&descSize=18" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F2624,30:466452,60:679379,100:90CEA6&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=58&descAlign=50&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2624,30:466452,60:679379,100:90CEA6&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=58&descAlign=50&descSize=18" />
 </picture>
 
 <div align="center">
 
 ```
-   _____           _     _
-  / ___/____ _____ _____/ (_)
-  \__ \/ __ `/ __ `/ __  / /
- ___/ / /_/ / /_/ / /_/ / /
-/____/\__,_/\__,_/\__,_/_/
+███████╗ █████╗  █████╗ ██████╗ ██╗
+██╔════╝██╔══██╗██╔══██╗██╔══██╗██║
+███████╗███████║███████║██║  ██║██║
+╚════██║██╔══██║██╔══██║██║  ██║██║
+███████║██║  ██║██║  ██║██████╔╝██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝
 ```
 
 <a href="https://github.com/Saadi795">
