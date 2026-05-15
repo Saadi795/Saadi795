@@ -43,21 +43,21 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 ![HTML+CSS](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=HTML+CSS&value=familiar&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
 
 ### Frameworks
-![FastAPI](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=FastAPI&value=framework&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
-![Flask](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Flask&value=framework&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
-![Vite](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Vite&value=build&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
-![React](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=React&value=library&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
-![Tailwind](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Tailwind&value=CSS&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
+![FastAPI](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=FastAPI&value=framework&style=pill&size=md&labelColor=0B0E14&valueColor=3D444B&borderColor=3D444B)
+![Flask](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Flask&value=framework&style=pill&size=md&labelColor=0B0E14&valueColor=3D444B&borderColor=3D444B)
+![Vite](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Vite&value=build&style=pill&size=md&labelColor=0B0E14&valueColor=3D444B&borderColor=3D444B)
+![React](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=React&value=library&style=pill&size=md&labelColor=0B0E14&valueColor=3D444B&borderColor=3D444B)
+![Tailwind](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Tailwind&value=CSS&style=pill&size=md&labelColor=0B0E14&valueColor=3D444B&borderColor=3D444B)
 
 ### AI & Automation
-![n8n](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=n8n&value=automations&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
-![OpenCode](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=OpenCode&value=agent+CLI&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
-![Claude Code](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Claude+Code&value=AI+CLI&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
+![n8n](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=n8n&value=automations&style=pill&size=md&labelColor=0B0E14&valueColor=A899FF&borderColor=A899FF)
+![OpenCode](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=OpenCode&value=agent+CLI&style=pill&size=md&labelColor=0B0E14&valueColor=A899FF&borderColor=A899FF)
+![Claude Code](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Claude+Code&value=AI+CLI&style=pill&size=md&labelColor=0B0E14&valueColor=A899FF&borderColor=A899FF)
 
 ### AI-Native IDEs
-![Antigravity](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Antigravity&value=IDE&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
-![Cursor](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Cursor&value=IDE&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
-![Windsurf](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Windsurf&value=IDE&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
+![Antigravity](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Antigravity&value=IDE&style=pill&size=md&labelColor=0B0E14&valueColor=FF003C&borderColor=FF003C)
+![Cursor](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Cursor&value=IDE&style=pill&size=md&labelColor=0B0E14&valueColor=FF003C&borderColor=FF003C)
+![Windsurf](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Windsurf&value=IDE&style=pill&size=md&labelColor=0B0E14&valueColor=FF003C&borderColor=FF003C)
 
 ### Scraping & Bots
 ![Playwright](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Playwright&value=automation&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
@@ -66,12 +66,12 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 ![Telegram API](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Telegram+API&value=bots&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
 
 ### Tools & Platforms
-![VS Code](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=VS+Code&value=editor&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
-![Replit](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Replit&value=cloud+IDE&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
-![Lovable](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Lovable&value=cloud+IDE&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
-![Kiro CLI](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Kiro+CLI&value=AI+CLI&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
-![Render](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Render&value=hosting&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
-![Vercel](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Vercel&value=hosting&style=pill&size=md&labelColor=0B0E14&valueColor=00FF41&borderColor=00FF41)
+![VS Code](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=VS+Code&value=editor&style=pill&size=md&labelColor=0B0E14&valueColor=1E3A24&borderColor=1E3A24)
+![Replit](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Replit&value=cloud+IDE&style=pill&size=md&labelColor=0B0E14&valueColor=1E3A24&borderColor=1E3A24)
+![Lovable](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Lovable&value=cloud+IDE&style=pill&size=md&labelColor=0B0E14&valueColor=1E3A24&borderColor=1E3A24)
+![Kiro CLI](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Kiro+CLI&value=AI+CLI&style=pill&size=md&labelColor=0B0E14&valueColor=1E3A24&borderColor=1E3A24)
+![Render](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Render&value=hosting&style=pill&size=md&labelColor=0B0E14&valueColor=1E3A24&borderColor=1E3A24)
+![Vercel](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Vercel&value=hosting&style=pill&size=md&labelColor=0B0E14&valueColor=1E3A24&borderColor=1E3A24)
 
 </div>
 
