@@ -17,8 +17,6 @@
 
 Building Telegram bot ecosystems for payment gateway automation, account verification, and security research. Work spans specialized bot variants, full-stack dashboards, credential extraction tools, and browser extensions.
 
-Currently focused on making bots faster, more modular, and production-ready.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -32,6 +30,19 @@ Currently focused on making bots faster, more modular, and production-ready.
 | **Payment** | Stripe API, Braintree GraphQL, Shopify GraphQL |
 | **Tools** | Playwright, BeautifulSoup, Faker |
 | **Deployment** | VPS, Render, Replit, systemd |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saadi795&theme=dark&hide_border=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Saadi795&theme=darkhub&no-frame=true&row=1&column=5)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Saadi795&theme=github-dark&hide_border=true)
+
+</div>
 
 ---
 
