@@ -14,7 +14,11 @@
 
 ---
 
-<img src="https://readme-svg-wave-divider-generator.vercel.app/api?type=wave&layer=1&color=00e5ff&width=100&height=30&animation=true" width="100%" />
+```
+  ╔══════════════════════════════════════════════════════════╗
+  ║              AI AUTOMATION · FULL-STACK · BOTS           ║
+  ╚══════════════════════════════════════════════════════════╝
+```
 
 Mixed background — some formal study, mostly self-taught over time. I build across the stack, but AI is what I keep coming back to.
 
@@ -26,14 +30,18 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 
 <img src="https://readme-svg-wave-divider-generator.vercel.app/api?type=wave&layer=1&color=00e5ff&width=100&height=30&animation=true" width="100%" />
 
-## Tech Stack
+```
+  ╔══════════════════════════════════════════════════════════╗
+  ║                      TECH STACK                          ║
+  ╚══════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Python&value=3.11&style=pill&theme=neon&size=md)
+![TypeScript](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=TypeScript&value=5.0&style=pill&theme=neon&size=md)
+![JavaScript](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=JavaScript&value=ES6&style=pill&theme=neon&size=md)
 
 ### Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -43,9 +51,9 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### AI & Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-7B2FF5?style=for-the-badge&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-DA7857?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=n8n&value=automations&style=pill&theme=neon&size=md)
+![OpenCode](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=OpenCode&value=agent&style=pill&theme=neon&size=md)
+![Claude Code](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Claude+Code&value=AI+CLI&style=pill&theme=neon&size=md)
 
 ### AI-Native IDEs
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -68,7 +76,11 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 
 <img src="https://readme-svg-wave-divider-generator.vercel.app/api?type=wave&layer=1&color=00e5ff&width=100&height=30&animation=true" width="100%" />
 
-## Projects
+```
+  ╔══════════════════════════════════════════════════════════╗
+  ║                      PROJECTS                            ║
+  ╚══════════════════════════════════════════════════════════╝
+```
 
 | Project | Description |
 |---------|-------------|
@@ -76,15 +88,21 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 | AI-Image-Generator | Text-to-image Telegram bot |
 | LeadsScrapper | Google Maps lead extraction tool (private) |
 
+<a href="https://wisdom-and-reflection.vercel.app/" target="_blank" rel="noopener">
+  <img src="https://readme-svg-site-preview.vercel.app/badge?url=https%3A%2F%2Fwisdom-and-reflection.vercel.app%2F&width=480&height=270&radius=12&border_width=2&border_color=00e5ff&title_color=ffffff&plate_color=0d1117&plate_opacity=0.8&title_position=overlay_bottom&custom_title=Wisdom%20%26%20Reflection" alt="Wisdom & Reflection Preview" />
+</a>
+
 <img src="https://readme-svg-wave-divider-generator.vercel.app/api?type=wave&layer=1&color=00e5ff&width=100&height=30&animation=true" width="100%" />
 
-## GitHub Stats
+```
+  ╔══════════════════════════════════════════════════════════╗
+  ║                    GITHUB STATS                           ║
+  ╚══════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Saadi795&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-
-<br>
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saadi795&theme=dark&hide_border=true)
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Saadi795&theme=github-dark&hide_border=true)
