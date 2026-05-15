@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:90CEA6,30:679379,60:466452,100:1F2624&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=58&descAlign=50&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90CEA6,30:679379,60:466452,100:1F2624&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=58&descAlign=50&descSize=18" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F2624,30:466452,60:679379,100:90CEA6&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=58&descAlign=50&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2624,30:466452,60:679379,100:90CEA6&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=58&descAlign=50&descSize=18" />
 </picture>
 
 <div align="center">
@@ -11,7 +11,7 @@
 d8"     "8b                                   88  ""  
 Y8,                                           88      
 `Y8aaaaa,    ,adPPYYba,  ,adPPYYba,   ,adPPYb,88  88  
-  `""""""8b,  ""     `Y8  ""     `Y8  a8"    `Y88  88  
+  `"""""8b,  ""     `Y8  ""     `Y8  a8"    `Y88  88  
         `8b  ,adPPPPP88  ,adPPPPP88  8b       88  88  
 Y8a     a8P  88,    ,88  88,    ,88  "8a,   ,d88  88  
  "Y88888P"   `"8bbdP"Y8  `"8bbdP"Y8   `"8bbdP"Y8  88  
@@ -59,46 +59,47 @@ When I'm not tinkering with AI, I'm building **Telegram bot systems**, full-stac
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-3.11-90CEA6?style=for-the-badge&logo=python&logoColor=90CEA6&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/TypeScript-5.0-90CEA6?style=for-the-badge&logo=typescript&logoColor=90CEA6&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/JavaScript-ES6-90CEA6?style=for-the-badge&logo=javascript&logoColor=90CEA6&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/HTML%20%2F%20CSS-familiar-90CEA6?style=for-the-badge&logo=html5&logoColor=90CEA6&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/HTML5-familiar-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/CSS3-familiar-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0E1216" />
 
 **Frameworks**
 
-<img src="https://img.shields.io/badge/FastAPI-framework-466452?style=for-the-badge&logo=fastapi&logoColor=679379&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/Flask-framework-466452?style=for-the-badge&logo=flask&logoColor=679379&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/Vite-build-466452?style=for-the-badge&logo=vite&logoColor=679379&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/React-library-466452?style=for-the-badge&logo=react&logoColor=679379&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/Tailwind-CSS-466452?style=for-the-badge&logo=tailwindcss&logoColor=679379&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/FastAPI-framework-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/Flask-framework-1A1B1E?style=for-the-badge&logo=flask&logoColor=white&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/Vite-build-646CFF?style=for-the-badge&logo=vite&logoColor=FFC83D&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/React-library-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0E1216" />
 
 **AI &amp; Automation**
 
-<img src="https://img.shields.io/badge/n8n-automations-679379?style=for-the-badge&logo=n8n&logoColor=90CEA6&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/OpenCode-agent%20CLI-679379?style=for-the-badge&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/Claude%20Code-AI%20CLI-679379?style=for-the-badge&logo=anthropic&logoColor=90CEA6&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/n8n-automations-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/OpenCode-agent%20CLI-FF6B35?style=for-the-badge&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/Claude%20Code-AI%20CLI-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0E1216" />
 
 **AI-Native IDEs**
 
-<img src="https://img.shields.io/badge/Antigravity-IDE-9D5963?style=for-the-badge&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/Cursor-IDE-9D5963?style=for-the-badge&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/Windsurf-IDE-9D5963?style=for-the-badge&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/Antigravity-IDE-6E40C9?style=for-the-badge&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/Cursor-IDE-1A1B1E?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/Windsurf-IDE-19B7C0?style=for-the-badge&logoColor=white&labelColor=0E1216" />
 
 **Scraping &amp; Bots**
 
-<img src="https://img.shields.io/badge/Playwright-automation-679379?style=for-the-badge&logo=playwright&logoColor=90CEA6&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/Selenium-automation-679379?style=for-the-badge&logo=selenium&logoColor=90CEA6&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/BeautifulSoup-scraping-679379?style=for-the-badge&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/Telegram%20API-bots-679379?style=for-the-badge&logo=telegram&logoColor=90CEA6&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/Playwright-automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/Selenium-automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/BeautifulSoup-scraping-4B8BBE?style=for-the-badge&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/Telegram%20API-bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0E1216" />
 
 **Tools &amp; Platforms**
 
-<img src="https://img.shields.io/badge/VS%20Code-editor-373D39?style=for-the-badge&logo=visualstudiocode&logoColor=90CEA6&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/Replit-cloud%20IDE-373D39?style=for-the-badge&logo=replit&logoColor=90CEA6&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/Lovable-cloud%20IDE-373D39?style=for-the-badge&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/Kiro%20CLI-AI%20CLI-373D39?style=for-the-badge&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/Render-hosting-373D39?style=for-the-badge&logo=render&logoColor=90CEA6&labelColor=0E1216" />
-<img src="https://img.shields.io/badge/Vercel-hosting-373D39?style=for-the-badge&logo=vercel&logoColor=90CEA6&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/VS%20Code-editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/Replit-cloud%20IDE-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/Lovable-cloud%20IDE-FF4785?style=for-the-badge&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/Kiro%20CLI-AI%20CLI-9D5963?style=for-the-badge&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/Render-hosting-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=0E1216" />
+<img src="https://img.shields.io/badge/Vercel-hosting-1A1B1E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0E1216" />
 
 </div>
 
