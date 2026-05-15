@@ -19,7 +19,7 @@ I work with AI at every level: building custom agents, orchestrating n8n workflo
 
 When I'm not tinkering with AI, I'm building Telegram bot systems, full-stack tools, or whatever else needs building. I also do beginner-to-intermediate web scraping — built a lead scraper for Google Maps data extraction, comfortable with BeautifulSoup, Playwright, and general data extraction.
 
-I use whatever tool makes sense — OpenCode, Kiro CLI, Claude Code, Cursor, n8n, raw Python. Fast when exploring, careful when shipping.
+I use whatever tool makes sense — OpenCode, Kiro CLI, Claude Code, Cursor, Antigravity, VS Code, n8n, raw Python. Fast when exploring, careful when shipping.
 
 ---
 
@@ -32,7 +32,7 @@ I use whatever tool makes sense — OpenCode, Kiro CLI, Claude Code, Cursor, n8n
 | Frontend | React 19, Vite, Tailwind, shadcn/ui |
 | Bot | python-telegram-bot, aiohttp |
 | AI/Agents | n8n, custom agent workflows, RAG pipelines |
-| AI Tools | OpenCode, Kiro CLI, Claude Code, Cursor |
+| AI Tools | OpenCode, Kiro CLI, Claude Code, Cursor, Antigravity, VS Code |
 | Scraping | BeautifulSoup, Playwright, httpx |
 | Deploy | VPS, Render, Vercel, systemd |
 
