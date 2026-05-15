@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-svg-typing-generator.vercel.app/api?lines=AI+Enthusiast;Full-Stack+Developer;Telegram+Bot+Ecosystems;n8n+Automations;Agentic+AI;Vibe+Coder;Always+Learning&animation=neon&color=00e5ff&background=00000000&size=26&width=720&height=110&center=true&vCenter=true&repeat=true&font=code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-svg-typing-generator.vercel.app/api?lines=AI+Enthusiast;Full-Stack+Developer;Telegram+Bot+Ecosystems;n8n+Automations;Agentic+AI;Vibe+Coder;Always+Learning&animation=glitch&color=00e5ff&background=00000000&size=26&font=monospace&duration=5000&pause=1000&width=720&height=110&center=true&vCenter=true&repeat=true)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Saadi795-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Saadi795)
 [![GitHub](https://img.shields.io/badge/GitHub-Saadi795-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saadi795)
