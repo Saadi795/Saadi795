@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0E1216,40:90CEA6,70:90CEA6,100:466452&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=58&descAlign=50&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1216,40:90CEA6,70:90CEA6,100:466452&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=58&descAlign=50&descSize=18" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F2624,30:466452,60:679379,100:90CEA6&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=58&descAlign=50&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2624,30:466452,60:679379,100:90CEA6&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=58&descAlign=50&descSize=18" />
 </picture>
 
 <div align="center">
@@ -11,7 +11,7 @@
 d8"     "8b                                   88  ""  
 Y8,                                           88      
 `Y8aaaaa,    ,adPPYYba,  ,adPPYYba,   ,adPPYb,88  88  
-  `""""""8b,  ""     `Y8  ""     `Y8  a8"    `Y88  88  
+  `"""""8b,  ""     `Y8  ""     `Y8  a8"    `Y88  88  
         `8b  ,adPPPPP88  ,adPPPPP88  8b       88  88  
 Y8a     a8P  88,    ,88  88,    ,88  "8a,   ,d88  88  
  "Y88888P"   `"8bbdP"Y8  `"8bbdP"Y8   `"8bbdP"Y8  88  
@@ -123,10 +123,10 @@ When I'm not tinkering with AI, I'm building **Telegram bot systems**, full-stac
 <div align="center">
 
 <a href="https://github.com/Saadi795">
-  <img src="https://github-readme-stats-rho-puce.vercel.app/api?username=Saadi795&show_icons=true&theme=transparent&hide_border=true&bg_color=0E1216&title_color=90CEA6&icon_color=679379&text_color=679379&ring_color=9D5963&cache_seconds=14400" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-omega-rouge.vercel.app/api?username=Saadi795&show_icons=true&theme=transparent&hide_border=true&bg_color=0E1216&title_color=90CEA6&icon_color=679379&text_color=679379&ring_color=9D5963&cache_seconds=14400" alt="GitHub Stats" height="180" />
 </a>
 <a href="https://github.com/Saadi795">
-  <img src="https://github-readme-stats-rho-puce.vercel.app/api/top-langs/?username=Saadi795&layout=compact&theme=transparent&hide_border=true&bg_color=0E1216&title_color=90CEA6&text_color=679379&langs_count=8&cache_seconds=14400" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-omega-rouge.vercel.app/api/top-langs/?username=Saadi795&layout=compact&theme=transparent&hide_border=true&bg_color=0E1216&title_color=90CEA6&text_color=679379&langs_count=8&cache_seconds=14400" alt="Top Languages" height="180" />
 </a>
 
 <br/><br/>
