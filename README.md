@@ -30,7 +30,8 @@ I use whatever tool makes sense for the job — no brand loyalty, just whatever 
 | **Languages** | Python, TypeScript, JavaScript |
 | **Frameworks** | FastAPI, Flask, React 19, Vite, Tailwind, shadcn/ui |
 | **AI Dev Tools** | Antigravity, Cursor, Windsurf, OpenCode, Kiro CLI, Claude Code |
-| **Editors** | VS Code, Replit |
+| **Editors** | VS Code |
+| **Cloud Dev** | Replit |
 | **No-Code / Low-Code** | n8n, Lovable |
 | **Bots** | python-telegram-bot, aiohttp |
 | **Scraping** | BeautifulSoup, Playwright, httpx |
