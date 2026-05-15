@@ -2,23 +2,22 @@
 
 # Saadi
 
-**AI Automation · Full-Stack · Bot Ecosystems**
+**AI Automation · Full-Stack · Bot Development**
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://python.org)
 [![n8n](https://img.shields.io/badge/n8n-automations-EA4B71?logo=n8n&logoColor=white)](https://n8n.io/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-26A5E4?logo=telegram&logoColor=white)](https://core.telegram.org/bots)
 
 </div>
 
 ---
 
-Mixed background — some formal study, mostly self-taught over the years. I work across two separate tracks: building the **Jitter** bot ecosystem on one side, and exploring **agentic AI** and **n8n automations** on the other. They don't really overlap, I just find both interesting for different reasons.
+Mixed background — some formal study, mostly self-taught over the years. I work on two separate tracks: building Telegram bot systems on one side, and exploring agentic AI and n8n automations on the other. They don't really overlap, I just find both interesting for different reasons.
 
-I'm a vibe coder in the sense that I use whatever tool fits the job. Claude Code, Cursor, n8n — depends on what I'm trying to ship. Fast prototyping when I'm exploring, more structured when it needs to actually run in production.
+I use whatever tool fits the job. Claude Code, Cursor, n8n — depends on what I'm trying to ship. Fast prototyping when I'm exploring, more structured when it needs to actually run in production.
 
-Right now I'm juggling multiple things at once. Refactoring parts of the Jitter ecosystem into something more modular. Diving deeper into AI agent workflows. Building tools that I actually want to use myself.
+Right now I'm juggling multiple things at once. Refactoring existing projects into something more modular. Diving deeper into AI agent workflows. Building tools I actually want to use myself.
 
 ---
 
