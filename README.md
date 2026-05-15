@@ -5,14 +5,14 @@
 
 <div align="center">
 
-```
- ███████╗ █████╗  █████╗ ██████╗ ██╗
- ██╔════╝██╔══██╗██╔══██╗██╔══██╗██║
- ███████╗███████║███████║██║  ██║██║
- ╚════██║██╔══██║██╔══██║██║  ██║██║
- ███████║██║  ██║██║  ██║██████╔╝██║
- ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝
-```
+<pre>
+███████╗ █████╗  █████╗ ██████╗ ██╗
+██╔════╝██╔══██╗██╔══██╗██╔══██╗██║
+███████╗███████║███████║██║  ██║██║
+╚════██║██╔══██║██╔══██║██║  ██║██║
+███████║██║  ██║██║  ██║██████╔╝██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝
+</pre>
 
 <a href="https://github.com/Saadi795">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;Full-Stack+Developer;Telegram+Bot+Ecosystems;n8n+Automations;Agentic+AI;Vibe+Coder;Always+Learning&font=Fira+Code&color=90CEA6&background=00000000&size=26&duration=3500&pause=800&width=720&height=60&center=true&vCenter=true&multiline=false" alt="Typing animation" />
