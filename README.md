@@ -1,8 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:004d73,100:00e5ff&height=280&section=header&text=Saadi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:004d73,100:00e5ff&height=280&section=header&text=Saadi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</picture>
+
 <div align="center">
 
-# Hey, I'm Saadi
-
-[![Typing SVG](https://readme-svg-typing-generator.vercel.app/api?lines=AI+Enthusiast;Full-Stack+Developer;Telegram+Bot+Ecosystems;n8n+Automations;Agentic+AI;Vibe+Coder;Always+Learning&animation=neon&color=00e5ff&background=00000000&size=28&width=760&height=120&center=true&vCenter=true&repeat=true&font=code&multiline=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-svg-typing-generator.vercel.app/api?lines=AI+Enthusiast;Full-Stack+Developer;Telegram+Bot+Ecosystems;n8n+Automations;Agentic+AI;Vibe+Coder;Always+Learning&animation=neon&color=00e5ff&background=00000000&size=26&width=720&height=110&center=true&vCenter=true&repeat=true&font=code)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Saadi795-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Saadi795)
 [![GitHub](https://img.shields.io/badge/GitHub-Saadi795-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saadi795)
@@ -10,6 +13,8 @@
 </div>
 
 ---
+
+<img src="https://readme-svg-wave-divider-generator.vercel.app/api?type=wave&layer=1&color=00e5ff&width=100&height=30&animation=true" width="100%" />
 
 Mixed background — some formal study, mostly self-taught over time. I build across the stack, but AI is what I keep coming back to.
 
@@ -19,7 +24,7 @@ When I'm not tinkering with AI, I'm building Telegram bot systems, full-stack to
 
 I use whatever tool fits the job — no brand loyalty, just whatever ships fastest.
 
----
+<img src="https://readme-svg-wave-divider-generator.vercel.app/api?type=wave&layer=1&color=00e5ff&width=100&height=30&animation=true" width="100%" />
 
 ## Tech Stack
 
@@ -35,12 +40,13 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style-for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### AI & Automation
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-7B2FF5?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-DA7857?style=for-the-badge&logo=anthropic&logoColor=white)
+![Kiro CLI](https://img.shields.io/badge/Kiro_CLI-FF6F00?style=for-the-badge&logo=kiro&logoColor=white)
 
 ### AI-Native IDEs
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -61,7 +67,7 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 
 </div>
 
----
+<img src="https://readme-svg-wave-divider-generator.vercel.app/api?type=wave&layer=1&color=00e5ff&width=100&height=30&animation=true" width="100%" />
 
 ## Projects
 
@@ -71,21 +77,23 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 | AI-Image-Generator | Text-to-image Telegram bot |
 | LeadsScrapper | Google Maps lead extraction tool (private) |
 
----
+<img src="https://readme-svg-wave-divider-generator.vercel.app/api?type=wave&layer=1&color=00e5ff&width=100&height=30&animation=true" width="100%" />
 
 ## GitHub Stats
 
 <div align="center">
 
+<img src="https://readme-svg-profile-bengo.vercel.app/api/card?user=Saadi795&slides=repos,stars,commits,langbar" width="495" alt="GitHub Stats" />
+
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Saadi795&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+
+<br>
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saadi795&theme=dark&hide_border=true)
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Saadi795&theme=github-dark&hide_border=true)
 
 </div>
 
----
-
-<div align="center">
-Building stuff. Breaking stuff. Learning along the way.
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:004d73,100:0d1117&height=150&section=footer&text=Building%20stuff.%20Breaking%20stuff.%20Learning%20along%20the%20way.&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" />
