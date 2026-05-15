@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:90CEA6,50:9D5963,100:90CEA6&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=0E1216&animation=fadeIn&fontAlignY=42&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=62&descAlign=50&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:90CEA6,50:9D5963,100:90CEA6&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=0E1216&animation=fadeIn&fontAlignY=42&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=62&descAlign=50&descSize=18" />
-</picture>
-
 <div align="center">
 
 <pre>
