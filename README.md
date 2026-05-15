@@ -1,7 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F2624,30:466452,60:679379,100:90CEA6&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=58&descAlign=50&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2624,30:466452,60:679379,100:90CEA6&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=58&descAlign=50&descSize=18" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:466452,30:679379,60:90CEA6,100:9D5963&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=0E1216&animation=fadeIn&fontAlignY=36&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=58&descAlign=50&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:466452,30:679379,60:90CEA6,100:9D5963&height=300&section=header&text=Hey%2C+I%27m+Saadi&fontSize=58&fontColor=0E1216&animation=fadeIn&fontAlignY=36&desc=AI+Automation+%E2%9A%A1+Full-Stack+%E2%9A%A1+Bot+Systems&descAlignY=58&descAlign=50&descSize=18" />
 </picture>
+
+<img src="https://readme-svg-wave-divider-generator.vercel.app/wave?profile=smooth&width=1200&height=80&amplitude=24&frequency=2&layers=3&top_color=466452&bottom_color=90CEA6&opacity=0.85&gradient=true&flip=true" width="100%" alt="wave divider" />
 
 <div align="center">
 
