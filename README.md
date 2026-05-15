@@ -2,7 +2,7 @@
 
 # Hey, I'm Saadi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%7C+Full-Stack+Developer;Building+Telegram+Bot+Ecosystems;n8n+Automations+%7C+Agentic+AI;Vibe+Coder+%7C+Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-svg-typing-generator.vercel.app/api?lines=AI+Enthusiast;Full-Stack+Developer;Telegram+Bot+Ecosystems;n8n+Automations;Agentic+AI;Vibe+Coder;Always+Learning&animation=neon&color=00e5ff&background=00000000&size=28&width=760&height=120&center=true&vCenter=true&repeat=true&font=code&multiline=false)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Saadi795-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Saadi795)
 [![GitHub](https://img.shields.io/badge/GitHub-Saadi795-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saadi795)
