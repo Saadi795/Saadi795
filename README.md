@@ -1,7 +1,16 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:004d73,100:00e5ff&height=280&section=header&text=Saadi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:004d73,100:00e5ff&height=280&section=header&text=Saadi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:004d73,100:00e5ff&height=280&section=header&text=Hey%2C+I%27m+Saadi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI+Automation+%C2%B7+Full-Stack+%C2%B7+Bot+Systems&descAlignY=55&descAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:004d73,100:00e5ff&height=280&section=header&text=Hey%2C+I%27m+Saadi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI+Automation+%C2%B7+Full-Stack+%C2%B7+Bot+Systems&descAlignY=55&descAlign=50" />
 </picture>
+
+```
+   _____           _     _ 
+  / ____|         | |   (_)
+ | (___     __ _  | | __ _ 
+  \___ \   / _` | | |/ /| |
+  ____) | | (_| | |   < | |
+ |_____/    \__,_|_|_|\_\|_|
+```
 
 <div align="center">
 
@@ -14,12 +23,6 @@
 
 ---
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║              AI AUTOMATION · FULL-STACK · BOTS           ║
-  ╚══════════════════════════════════════════════════════════╝
-```
-
 Mixed background — some formal study, mostly self-taught over time. I build across the stack, but AI is what I keep coming back to.
 
 I work with AI at every level: building custom agents, orchestrating n8n workflows, integrating LLMs into bots, experimenting with RAG pipelines. Not because there's a single goal — I genuinely find it interesting. Working toward shipping useful tools, automating dev workflows, and moving deeper into this space professionally.
@@ -30,11 +33,7 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 
 <img src="https://readme-svg-wave-divider-generator.vercel.app/api?type=wave&layer=1&color=00e5ff&width=100&height=30&animation=true" width="100%" />
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║                      TECH STACK                          ║
-  ╚══════════════════════════════════════════════════════════╝
-```
+## Tech Stack
 
 <div align="center">
 
@@ -76,11 +75,7 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 
 <img src="https://readme-svg-wave-divider-generator.vercel.app/api?type=wave&layer=1&color=00e5ff&width=100&height=30&animation=true" width="100%" />
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║                      PROJECTS                            ║
-  ╚══════════════════════════════════════════════════════════╝
-```
+## Projects
 
 | Project | Description |
 |---------|-------------|
@@ -94,11 +89,7 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 
 <img src="https://readme-svg-wave-divider-generator.vercel.app/api?type=wave&layer=1&color=00e5ff&width=100&height=30&animation=true" width="100%" />
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║                    GITHUB STATS                           ║
-  ╚══════════════════════════════════════════════════════════╝
-```
+## GitHub Stats
 
 <div align="center">
 
