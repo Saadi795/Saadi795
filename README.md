@@ -123,10 +123,10 @@ When I'm not tinkering with AI, I'm building **Telegram bot systems**, full-stac
 <div align="center">
 
 <a href="https://github.com/Saadi795">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saadi795&show_icons=true&theme=transparent&hide_border=true&bg_color=0E1216&title_color=90CEA6&icon_color=679379&text_color=679379&ring_color=9D5963&cache_seconds=14400" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-rho-puce.vercel.app/api?username=Saadi795&show_icons=true&theme=transparent&hide_border=true&bg_color=0E1216&title_color=90CEA6&icon_color=679379&text_color=679379&ring_color=9D5963&cache_seconds=14400" alt="GitHub Stats" height="180" />
 </a>
 <a href="https://github.com/Saadi795">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadi795&layout=compact&theme=transparent&hide_border=true&bg_color=0E1216&title_color=90CEA6&text_color=679379&langs_count=8&cache_seconds=14400" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-rho-puce.vercel.app/api/top-langs/?username=Saadi795&layout=compact&theme=transparent&hide_border=true&bg_color=0E1216&title_color=90CEA6&text_color=679379&langs_count=8&cache_seconds=14400" alt="Top Languages" height="180" />
 </a>
 
 <br/><br/>
