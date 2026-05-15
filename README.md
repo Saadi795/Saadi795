@@ -29,10 +29,9 @@ I use whatever tool makes sense for the job — no brand loyalty, just whatever 
 |----------|-------|
 | **Languages** | Python, TypeScript, JavaScript |
 | **Frameworks** | FastAPI, Flask, React 19, Vite, Tailwind, shadcn/ui |
-| **Agentic IDEs** | Antigravity, Cursor, Windsurf |
+| **AI Dev Tools** | Antigravity, Cursor, Windsurf, OpenCode, Kiro CLI, Claude Code |
 | **Editors** | VS Code, Replit |
-| **AI Coding** | OpenCode, Kiro CLI, Claude Code |
-| **AI Apps** | Lovable, n8n, custom agent workflows |
+| **No-Code / Low-Code** | n8n, Lovable |
 | **Bots** | python-telegram-bot, aiohttp |
 | **Scraping** | BeautifulSoup, Playwright, httpx |
 | **Deploy** | VPS, Render, Vercel, systemd |
