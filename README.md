@@ -15,8 +15,8 @@
 
 [![Typing SVG](https://readme-svg-typing-generator.vercel.app/api?lines=AI+Enthusiast;Full-Stack+Developer;Telegram+Bot+Ecosystems;n8n+Automations;Agentic+AI;Vibe+Coder;Always+Learning&animation=glitch&color=00e5ff&background=00000000&size=26&font=monospace&duration=5000&pause=1000&width=720&height=110&center=true&vCenter=true&repeat=true)](https://git.io/typing-svg)
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Saadi795-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Saadi795)
-[![GitHub](https://img.shields.io/badge/GitHub-Saadi795-00e5ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saadi795)
+![Telegram](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Telegram&value=@Saadi795&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![GitHub](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=GitHub&value=Saadi795&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
 
 </div>
 
@@ -40,35 +40,38 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 ![Python](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Python&value=3.11&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
 ![TypeScript](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=TypeScript&value=5.0&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
 ![JavaScript](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=JavaScript&value=ES6&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![HTML+CSS](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=HTML+CSS&value=familiar&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
 
 ### Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-00e5ff?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-00e5ff?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-00e5ff?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-00e5ff?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-00e5ff?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![FastAPI](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=FastAPI&value=framework&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![Flask](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Flask&value=framework&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![Vite](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Vite&value=build&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![React](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=React&value=library&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![Tailwind](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Tailwind&value=CSS&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
 
 ### AI & Automation
 ![n8n](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=n8n&value=automations&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
-![OpenCode](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=OpenCode&value=agent&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![OpenCode](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=OpenCode&value=agent+CLI&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
 ![Claude Code](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Claude+Code&value=AI+CLI&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
 
 ### AI-Native IDEs
-![Antigravity](https://img.shields.io/badge/Antigravity-00e5ff?style=for-the-badge&logo=google&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-00e5ff?style=for-the-badge&logo=cursor&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-00e5ff?style=for-the-badge&logo=windsurf&logoColor=white)
+![Antigravity](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Antigravity&value=IDE&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![Cursor](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Cursor&value=IDE&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![Windsurf](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Windsurf&value=IDE&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
 
 ### Scraping & Bots
-![Playwright](https://img.shields.io/badge/Playwright-00e5ff?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-00e5ff?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-00e5ff?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Playwright&value=automation&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![Selenium](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Selenium&value=automation&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![BS4](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=BS4&value=scraping&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![Telegram API](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Telegram+API&value=bots&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
 
 ### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-00e5ff?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-00e5ff?style=for-the-badge&logo=replit&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-00e5ff?style=for-the-badge&logo=lovable&logoColor=white)
-![Render](https://img.shields.io/badge/Render-00e5ff?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-00e5ff?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=VS+Code&value=editor&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![Replit](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Replit&value=cloud+IDE&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![Lovable](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Lovable&value=cloud+IDE&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![Kiro CLI](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Kiro+CLI&value=AI+CLI&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![Render](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Render&value=hosting&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
+![Vercel](https://readme-svg-custom-badge-generator.vercel.app/api/badge?label=Vercel&value=hosting&style=pill&theme=dark&size=md&labelColor=0d1117&valueColor=00e5ff&borderColor=00e5ff)
 
 </div>
 
@@ -80,7 +83,6 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 |---------|-------------|
 | [Wisdom & Reflection](https://wisdom-and-reflection.vercel.app/) | Islamic quotes and reflection web app |
 | AI-Image-Generator | Text-to-image Telegram bot |
-| LeadsScrapper | Google Maps lead extraction tool (private) |
 
 <a href="https://wisdom-and-reflection.vercel.app/" target="_blank" rel="noopener">
   <img src="https://readme-svg-site-preview.vercel.app/badge?url=https%3A%2F%2Fwisdom-and-reflection.vercel.app%2F&width=480&height=270&radius=12&border_width=2&border_color=00e5ff&title_color=00e5ff&plate_color=0d1117&plate_opacity=0.8&title_position=overlay_bottom&custom_title=Wisdom%20%26%20Reflection" alt="Wisdom & Reflection Preview" />
@@ -95,6 +97,7 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 <img src="https://github-readme-stats.vercel.app/api?username=Saadi795&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" alt="GitHub Stats" />
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saadi795&theme=dark&hide_border=true)
+
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Saadi795&theme=github-dark&hide_border=true)
 
 </div>
