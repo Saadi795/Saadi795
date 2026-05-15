@@ -14,15 +14,11 @@
 
 ---
 
-I'm an AI enthusiast building automation tools and bot ecosystems. Most of my work lives in private repos — a collection of Telegram bot variants I call **Jitter**, built around a modular architecture where each variant serves a different use case.
+Mixed background — some formal study, mostly self-taught over the years. I work across two separate tracks: building the **Jitter** bot ecosystem on one side, and exploring **agentic AI** and **n8n automations** on the other. They don't really overlap, I just find both interesting for different reasons.
 
-I vibe-code across the full stack. Python for the heavy lifting, React when I need a UI, n8n when I want to glue things together without writing boilerplate. Agentic AI workflows are what I'm digging into most right now.
+I'm a vibe coder in the sense that I use whatever tool fits the job. Claude Code, Cursor, n8n — depends on what I'm trying to ship. Fast prototyping when I'm exploring, more structured when it needs to actually run in production.
 
-**What I work on:**
-- Agentic AI pipelines and n8n automations
-- Telegram bot ecosystems (payment gates, account checkers, automation tools)
-- Full-stack tools — dashboards, APIs, browser extensions
-- Whatever useful thing I feel like building next
+Right now I'm juggling multiple things at once. Refactoring parts of the Jitter ecosystem into something more modular. Diving deeper into AI agent workflows. Building tools that I actually want to use myself.
 
 ---
 
@@ -34,8 +30,9 @@ I vibe-code across the full stack. Python for the heavy lifting, React when I ne
 | Backend | FastAPI, Flask, n8n |
 | Frontend | React 19, Vite, Tailwind, shadcn/ui |
 | Bot | python-telegram-bot, aiohttp |
-| Automation | n8n, custom agents |
-| DevOps | VPS, Render, systemd |
+| Automation | n8n, custom agent workflows |
+| AI Tools | Claude Code, Cursor, various APIs |
+| Deploy | VPS, Render, systemd |
 
 ---
 
