@@ -17,7 +17,7 @@ Mixed background — some formal study, mostly self-taught over time. I build th
 
 I work with AI at every level: building custom agents, orchestrating n8n workflows, integrating LLMs into bots, experimenting with RAG pipelines. Not because there's a single goal — because I genuinely find it interesting. Working toward shipping useful tools, automating dev workflows, and moving deeper into this space professionally.
 
-When I'm not tinkering with AI, I'm building Telegram bot systems, full-stack tools, or whatever else needs building. I also do beginner-to-intermediate web scraping — built a lead scraper for Google Maps data extraction, comfortable with BeautifulSoup, Playwright, and general data extraction.
+When I'm not tinkering with AI, I'm building Telegram bot systems, full-stack tools, or whatever else needs building. I also do beginner-to-intermediate web scraping — built a lead scraper for Google Maps data extraction, comfortable with BeautifulSoup, Playwright, Selenium, Cloak browser, and general data extraction.
 
 I use whatever tool makes sense for the job — no brand loyalty, just whatever ships fastest.
 
@@ -35,7 +35,7 @@ I use whatever tool makes sense for the job — no brand loyalty, just whatever 
 | **Cloud Platforms** | Replit, Lovable |
 | **Automation** | n8n |
 | **Bots** | python-telegram-bot, aiohttp |
-| **Scraping** | BeautifulSoup, Playwright, httpx |
+| **Scraping** | BeautifulSoup, Playwright, Selenium, Cloak browser |
 | **Deploy** | VPS, Render, Vercel, systemd |
 
 ---
