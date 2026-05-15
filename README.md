@@ -102,28 +102,10 @@ When I'm not tinkering with AI, I'm building **Telegram bot systems**, full-stac
   <img src="https://img.shields.io/badge/%2F%20featured__projects-%20-90CEA6?style=for-the-badge&labelColor=0E1216" alt="featured_projects" height="32" />
 </div>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://wisdom-and-reflection.vercel.app/" target="_blank" rel="noopener">
-        <img src="https://image.thum.io/get/width/600/crop/700/wait/3/https://wisdom-and-reflection.vercel.app/" alt="Wisdom & Reflection live preview" width="100%" />
-      </a>
-      <br/><br/>
-      <a href="https://wisdom-and-reflection.vercel.app/">
-        <img src="https://img.shields.io/badge/Wisdom%20%26%20Reflection-live-90CEA6?style=for-the-badge&logo=vercel&logoColor=90CEA6&labelColor=0E1216" alt="Wisdom & Reflection" />
-      </a>
-      <br/>
-      <sub>Islamic quotes &amp; reflection web app · React + Vite + TS</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E1216,40:1F2624,80:466452,100:9D5963&height=340&section=header&text=AI+Image+Generator&fontSize=32&fontColor=ffffff&fontAlignY=42&desc=Text-to-Image+%C2%B7+Telegram+Bot&descAlignY=60&descAlign=50&descSize=16" alt="AI Image Generator card" width="100%" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/AI--Image--Generator-bot-9D5963?style=for-the-badge&logo=telegram&logoColor=9D5963&labelColor=0E1216" alt="AI Image Generator" />
-      <br/>
-      <sub>Text-to-image Telegram bot · Python</sub>
-    </td>
-  </tr>
-</table>
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**Wisdom &amp; Reflection**](https://wisdom-and-reflection.vercel.app/) | React · Vite · TypeScript | Islamic quotes &amp; reflection web app |
+| **AI-Image-Generator** | Python · Telegram API | Text-to-image Telegram bot |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=9D5963&height=2" width="100%" />
 
