@@ -40,13 +40,12 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style-for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### AI & Automation
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-7B2FF5?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-DA7857?style=for-the-badge&logo=anthropic&logoColor=white)
-![Kiro CLI](https://img.shields.io/badge/Kiro_CLI-FF6F00?style=for-the-badge&logo=kiro&logoColor=white)
 
 ### AI-Native IDEs
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -82,10 +81,6 @@ I use whatever tool fits the job — no brand loyalty, just whatever ships faste
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://readme-svg-profile-bengo.vercel.app/api/card?user=Saadi795&slides=repos,stars,commits,langbar" width="495" alt="GitHub Stats" />
-
-<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Saadi795&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
 
