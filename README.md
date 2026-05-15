@@ -1,39 +1,45 @@
 <div align="center">
 
-# 👋 Saadi
+# Saadi
 
-**Bot Developer · Automation Engineer · Security Researcher**
+**AI Automation · Full-Stack · Bot Ecosystems**
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://python.org)
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-26A5E4?logo=telegram&logoColor=white)](https://core.telegram.org/bots)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![n8n](https://img.shields.io/badge/n8n-automations-EA4B71?logo=n8n&logoColor=white)](https://n8n.io/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-26A5E4?logo=telegram&logoColor=white)](https://core.telegram.org/bots)
 
 </div>
 
 ---
 
-## 🖤 About
+I'm an AI enthusiast building automation tools and bot ecosystems. Most of my work lives in private repos — a collection of Telegram bot variants I call **Jitter**, built around a modular architecture where each variant serves a different use case.
 
-Building Telegram bot ecosystems for payment gateway automation, account verification, and security research. Work spans specialized bot variants, full-stack dashboards, credential extraction tools, and browser extensions.
+I vibe-code across the full stack. Python for the heavy lifting, React when I need a UI, n8n when I want to glue things together without writing boilerplate. Agentic AI workflows are what I'm digging into most right now.
 
----
-
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python 3.11+, TypeScript, JavaScript |
-| **Frameworks** | FastAPI, Flask, React 19, Vite |
-| **Bot** | python-telegram-bot, aiohttp, httpx |
-| **Frontend** | Tailwind CSS, shadcn/ui, Framer Motion |
-| **Payment** | Stripe API, Braintree GraphQL, Shopify GraphQL |
-| **Tools** | Playwright, BeautifulSoup, Faker |
-| **Deployment** | VPS, Render, Replit, systemd |
+**What I work on:**
+- Agentic AI pipelines and n8n automations
+- Telegram bot ecosystems (payment gates, account checkers, automation tools)
+- Full-stack tools — dashboards, APIs, browser extensions
+- Whatever useful thing I feel like building next
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Stack
+
+| Area | What I Use |
+|------|-----------|
+| Languages | Python, TypeScript, JavaScript |
+| Backend | FastAPI, Flask, n8n |
+| Frontend | React 19, Vite, Tailwind, shadcn/ui |
+| Bot | python-telegram-bot, aiohttp |
+| Automation | n8n, custom agents |
+| DevOps | VPS, Render, systemd |
+
+---
+
+## 📊 Stats
 
 <div align="center">
 
@@ -46,15 +52,12 @@ Building Telegram bot ecosystems for payment gateway automation, account verific
 
 ---
 
-## 📫 Contact
+## 📫
 
-- **Telegram:** [@Saadi795](https://t.me/Saadi795)
-- **GitHub:** [@Saadi795](https://github.com/Saadi795)
+**Telegram:** [@Saadi795](https://t.me/Saadi795)
 
 ---
 
 <div align="center">
-
-⭐ *Building automation tools, one commit at a time.*
-
+Building stuff. Breaking stuff. Learning along the way.
 </div>
