@@ -31,8 +31,8 @@ I use whatever tool makes sense for the job — no brand loyalty, just whatever 
 | **Frameworks** | FastAPI, Flask, React 19, Vite, Tailwind, shadcn/ui |
 | **AI Dev Tools** | Antigravity, Cursor, Windsurf, OpenCode, Kiro CLI, Claude Code |
 | **Editors** | VS Code |
-| **Cloud Dev** | Replit |
-| **No-Code / Low-Code** | n8n, Lovable |
+| **Cloud Platforms** | Replit, Lovable |
+| **Automation** | n8n |
 | **Bots** | python-telegram-bot, aiohttp |
 | **Scraping** | BeautifulSoup, Playwright, httpx |
 | **Deploy** | VPS, Render, Vercel, systemd |
