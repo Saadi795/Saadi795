@@ -2,7 +2,7 @@
 
 # Saadi
 
-**AI Automation · Full-Stack · Bot Development**
+**AI Automation · Bot Systems · Full-Stack**
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://python.org)
 [![n8n](https://img.shields.io/badge/n8n-automations-EA4B71?logo=n8n&logoColor=white)](https://n8n.io/)
@@ -13,11 +13,11 @@
 
 ---
 
-Mixed background — some formal study, mostly self-taught over the years. I work on two separate tracks: building Telegram bot systems on one side, and exploring agentic AI and n8n automations on the other. They don't really overlap, I just find both interesting for different reasons.
+Mixed background — some formal study, mostly self-taught over time. I build things across the stack, but AI is what I keep coming back to.
 
-I use whatever tool fits the job. Claude Code, Cursor, n8n — depends on what I'm trying to ship. Fast prototyping when I'm exploring, more structured when it needs to actually run in production.
+I work with AI at every level: building custom agents, orchestrating n8n workflows, integrating LLMs into bots, experimenting with RAG pipelines. Not because there's a single goal — because I genuinely find it interesting. That said, I'm working toward shipping useful tools, automating the boring parts of development, and eventually moving deeper into this space professionally.
 
-Right now I'm juggling multiple things at once. Refactoring existing projects into something more modular. Diving deeper into AI agent workflows. Building tools I actually want to use myself.
+When I'm not tinkering with AI, I'm building Telegram bot systems, full-stack tools, or whatever else needs building. I use whatever tool makes sense — Claude Code, Cursor, n8n, raw Python. Fast when exploring, careful when shipping.
 
 ---
 
@@ -29,7 +29,7 @@ Right now I'm juggling multiple things at once. Refactoring existing projects in
 | Backend | FastAPI, Flask, n8n |
 | Frontend | React 19, Vite, Tailwind, shadcn/ui |
 | Bot | python-telegram-bot, aiohttp |
-| Automation | n8n, custom agent workflows |
+| AI/Agents | n8n, custom agent workflows, RAG pipelines |
 | AI Tools | Claude Code, Cursor, various APIs |
 | Deploy | VPS, Render, systemd |
 
